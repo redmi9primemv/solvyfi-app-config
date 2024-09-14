@@ -1,0 +1,1 @@
+# solvyfi-app-config
